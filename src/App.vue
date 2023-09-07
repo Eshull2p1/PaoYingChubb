@@ -47,11 +47,11 @@ const control_game = {
 
 // icone
 const icone_choice = {
-  ค้อน: "/img_icone/hammer.png",
-  กระดาษ: "/img_icone/papper.png",
-  กรรไกร: "/img_icone/scissors.png",
-  ความรัก: "/img_icone/love.png",
-  เพื่อนรัก: "/img_icone/JustFriend.png",
+  ค้อน: "https://cdn.discordapp.com/attachments/989851222959874111/1149366923138695208/hammer.png",
+  กระดาษ: "https://cdn.discordapp.com/attachments/989851222959874111/1149366924044677160/papper.png",
+  กรรไกร: "https://cdn.discordapp.com/attachments/989851222959874111/1149366924313100401/scissors.png",
+  ความรัก: "https://cdn.discordapp.com/attachments/989851222959874111/1149366923717509200/love.png",
+  เพื่อนรัก: "https://cdn.discordapp.com/attachments/989851222959874111/1149366923449086013/JustFriend.png",
 };
 
 function getRandomChoice() {
